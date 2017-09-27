@@ -1,0 +1,24 @@
+#第一次使用Markdown
+**首先你需要规范格式**
+*这里也是*
+##理解并记忆
+###加油
+####相信自己
+
+>cd Desktop 
+touch 1-1.c
+gedit 1-1.c
+
+```#include<stdio.h>
+int main()
+{
+printf("Hello World！")；
+return 0；
+}```
+
+>ctrl+S
+gcc -o 1-1 1-1.c
+./1-1
+"Hello World!"
+
+  -------end-------
